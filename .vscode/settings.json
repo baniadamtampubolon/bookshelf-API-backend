@@ -1,0 +1,14 @@
+{
+    "git.ignoreLimitWarning": true,
+    "debug.showInlineBreakpointCandidates": false,
+    "files.autoSave": "afterDelay",
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    },
+    "eslint.enable": true,
+    "eslint.experimental.useFlatConfig": true,
+    "json.schemas": [
+        
+    ],
+
+}
