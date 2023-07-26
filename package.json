@@ -1,14 +1,14 @@
 {
-  "name": "notes-app-back-end",
+  "name": "bookshelf-api-submission",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start-prod": "NODE_ENV=production node ./src/server.js",
-    "start-dev": "nodemon ./src/server.js",
+    "start": "node src/server.js",
+    "start-dev": "nodemon src/server.js",
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "baniadamtampubolon",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.45.0",
